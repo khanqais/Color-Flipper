@@ -1,6 +1,7 @@
 # Random Color Generator 🎨
 
 A simple Random Color Generator app that uses HTML, CSS, and JavaScript. When the "Click me" button is clicked, a random color is generated and displayed , along with its RGB value.
+In simple there is only 4 color and in hex all colors are present
 
 ## Features
 - 🎲 **Random Color Generation**: Generates a random RGB color each time the button is clicked.
